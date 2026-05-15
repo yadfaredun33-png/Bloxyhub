@@ -1,0 +1,6 @@
+{
+  "name": "BloxyHub",
+  "description": "Welcome to BloxyHub where we host giveaways and do invite rewards for Blox Fruits and Adopt Me.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
